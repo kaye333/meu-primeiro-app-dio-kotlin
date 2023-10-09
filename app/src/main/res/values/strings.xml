@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="greetings">Olá, Comunidade DIO! 🏖️🌴🇧🇷 </string>
+    <string name="app_name">PrimeiroAppDio!</string>
 </resources>
